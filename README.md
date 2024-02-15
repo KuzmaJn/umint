@@ -1,2 +1,2 @@
 # umint
-predmet umela inteligencia na FEI STU
+STU FEI umela inteligencia
